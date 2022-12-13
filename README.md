@@ -1,26 +1,15 @@
-[![MasterHead](https://github.com/KuralGfx/Kuralgfx/blob/main/banner_kural.gif)](https://KuralGfx.io) 
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/963899883201388594/1040087112080441445/Kural_smokingocchiali.png">
+𝓐𝓵𝓮𝓼𝓼𝓲𝓪 𝓜𝓪𝓼𝓪𝓵𝓪
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuralgfx&label=Profile%20views&color=0e75b6&style=flat" alt="kuralgfx" /> </p>
 
-- 🔭 I’m currently working on [Wolf Development](http://wolfdevelopment.it/)
+- 🌱 I’m currently learning **Swift*
 
-- 🌱 I’m currently learning **Angular**
+- 💬 Ask me about **Html, css, Js, React, SQL, Swift**
 
-- 👯 I’m looking to collaborate on [Wolf Development](http://wolfdevelopment.it/)
-
-- 👨‍💻 All of my projects are available at [https://kuralgfx.shop/](https://kuralgfx.shop/)
-
-- 💬 Ask me about **Html, css, Js, React, SQL,**
-
-- 📫 How to reach me **kuralwhitee@gmail.com**
+- 📫 How to reach me **alessiamasala94@libero.it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/giorgiopiu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/giorgiopiu/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/people/giorgio-piu/100084449904825/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/giorgio-piu/100084449904825/" height="30" width="40" /></a>
-<a href="https://instagram.com/giorgio_piu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giorgio_piu" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/rmcmzYaB5z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/rmcmzYaB5z" height="30" width="40" /></a>
+<a href="https://instagram.com/alessia.masala94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alessia.masala94" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
