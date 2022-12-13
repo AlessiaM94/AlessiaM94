@@ -1,7 +1,7 @@
 𝓐𝓵𝓮𝓼𝓼𝓲𝓪 𝓜𝓪𝓼𝓪𝓵𝓪
 
 
-- 🌱 I’m currently learning **Swift*
+- 🌱 I’m currently learning **Swift**
 
 - 💬 Ask me about **Html, css, Js, React, SQL, Swift**
 
