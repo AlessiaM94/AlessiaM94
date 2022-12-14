@@ -1,5 +1,5 @@
 𝓐𝓵𝓮𝓼𝓼𝓲𝓪 𝓜𝓪𝓼𝓪𝓵𝓪
-
+<img src="https://github.com/AlessiaM94/AlessiaM94/blob/main/Front-end%20developer%20(1).png"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlessiaM94&label=Profile%20views&color=0e75b6&style=flat" alt="AlessiaM94" /> </p>
 
 
